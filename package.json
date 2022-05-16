@@ -2,9 +2,9 @@
   "name": "hello-express",
   "version": "0.0.1",
   "description": "A simple Node app built on Express, instantly up and running.",
-  "main": "atanoria.js",
+  "main": "burak.js",
   "scripts": {
-    "start": "node atanoria.js"
+    "start": "node burak.js"
   },
   "dependencies": {
     "discord.js": "^11.6.4",
